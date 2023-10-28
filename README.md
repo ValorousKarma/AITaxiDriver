@@ -5,7 +5,7 @@ Creating an autonomous vehicle AI that can navigate from point A to point B, whi
 
 # Goals
 
-1. [ ]  drive on right side of road
+1. [x]  drive on right side of road
 2. [ ]  make turns
 2. [ ]  navigate from point A to point B
 3. [ ]  introduce pedestrians, avoid hitting them
