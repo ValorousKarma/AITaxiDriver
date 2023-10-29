@@ -17,4 +17,4 @@ Creating an autonomous vehicle AI that can navigate from point A to point B, whi
 
 Implemented ability for cars to drive on and navigate a path from start to end, or loop.
 
-![cars driving around curve](https://github.com/ValorousKarma/AITaxiDriver/tree/main/Media/CarsPathing.gif)
+![cars driving around curve](https://github.com/ValorousKarma/AITaxiDriver/blob/main/Media/CarsPathing.gif)
